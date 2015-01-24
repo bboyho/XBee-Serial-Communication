@@ -1,8 +1,6 @@
 XBee Serial Communication
 -------------------
 
-============
-
 This is example code to transmit characters wirelessly between to Arduinos using XBee Series 1 transceivers.
 
 Repository Contents
