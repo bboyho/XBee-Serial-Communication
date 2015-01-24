@@ -5,7 +5,7 @@ This is example code to transmit characters wirelessly between to Arduinos using
 
 Repository Contents
 -------------------
-* **/Firmware** - Example Arduino sketches
+* **/XBee_Serial Communication** - Example Arduino sketches
 
 License Information
 -------------------
