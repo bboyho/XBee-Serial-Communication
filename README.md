@@ -1,7 +1,7 @@
 XBee Serial Communication
 -------------------
 
-This is example code to transmit characters wirelessly between to Arduinos using XBee Series 1 transceivers.
+This is example code used to wirelessly transmit characters through an Arduino's software serial UART pins to another Arduino using two XBee Series 1 in the same channel. For more information on configuring two XBee Series 1 on the same channel, you can check out Digi's Examples: http://examples.digi.com/get-started/basic-xbee-802-15-4-chat/
 
 Repository Contents
 -------------------
